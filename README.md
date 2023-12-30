@@ -1,4 +1,4 @@
-
+![logo](https://github.com/kartikk72/kartikk72/blob/main/R.jfif)
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">KARTIK KANTALI</h1>
 
 
@@ -16,13 +16,9 @@
 
 
 <p align="left">
-<a href="https://linkedin.com/in/kartik-kantali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kumarvipin8979/" height="30" width="40" /></a><a href="https://www.hackerrank.com/profile/kartikk72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kartikk72" height="30" width="40" /></a>
-​
+<a href="https://linkedin.com/in/kartik-kantali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kumarvipin8979/" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/kartikk72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kartikk72" height="30" width="40" /></a>
 </p>
-
-
-
-
 
 
 <p align="left">
