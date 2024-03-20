@@ -1,4 +1,4 @@
-![logo](https://github.com/kartikk72/kartikk72/blob/main/R.jfif)
+![logo](https://github.com/kartikk72/kartikk72/blob/main/kk.jpg)
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">KARTIK KANTALI</h1>
 
 
